@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MycontrolsTandHtest", "MycontrolsTandHtest\MycontrolsTandHtest.csproj", "{F305E7A2-64C2-4D55-BD3B-74B17BECE396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THProjectMain", "THProjectMain\THProjectMain.csproj", "{F8F5F7E6-F0EA-425F-B4B1-94DC2ED6E71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusBase", "ModbusBase\ModbusBase.csproj", "{E57BDF00-6FE5-4A40-B56D-26AE4D5ABEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusRTULib", "ModbusRTULib\ModbusRTULib.csproj", "{C7BC4134-8BA1-48A7-A225-87D1911F1D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F305E7A2-64C2-4D55-BD3B-74B17BECE396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F305E7A2-64C2-4D55-BD3B-74B17BECE396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F305E7A2-64C2-4D55-BD3B-74B17BECE396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F305E7A2-64C2-4D55-BD3B-74B17BECE396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F5F7E6-F0EA-425F-B4B1-94DC2ED6E71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F5F7E6-F0EA-425F-B4B1-94DC2ED6E71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F5F7E6-F0EA-425F-B4B1-94DC2ED6E71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F5F7E6-F0EA-425F-B4B1-94DC2ED6E71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57BDF00-6FE5-4A40-B56D-26AE4D5ABEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57BDF00-6FE5-4A40-B56D-26AE4D5ABEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57BDF00-6FE5-4A40-B56D-26AE4D5ABEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57BDF00-6FE5-4A40-B56D-26AE4D5ABEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BC4134-8BA1-48A7-A225-87D1911F1D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BC4134-8BA1-48A7-A225-87D1911F1D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BC4134-8BA1-48A7-A225-87D1911F1D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BC4134-8BA1-48A7-A225-87D1911F1D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9E76D4-FA88-4490-86AA-FBABC124631F}
+	EndGlobalSection
+EndGlobal

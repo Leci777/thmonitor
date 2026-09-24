@@ -1,0 +1,12 @@
+E:\Toward\THProject\ModbusRTULib\bin\Debug\ModbusRTULib.dll
+E:\Toward\THProject\ModbusRTULib\bin\Debug\ModbusRTULib.pdb
+E:\Toward\THProject\ModbusRTULib\obj\Debug\ModbusRTULib.csproj.AssemblyReference.cache
+E:\Toward\THProject\ModbusRTULib\obj\Debug\ModbusRTULib.csproj.CoreCompileInputs.cache
+E:\Toward\THProject\ModbusRTULib\obj\Debug\ModbusRTULib.dll
+E:\Toward\THProject\ModbusRTULib\obj\Debug\ModbusRTULib.pdb
+E:\Toward\温湿度检测器\THProject\ModbusRTULib\bin\Debug\ModbusRTULib.dll
+E:\Toward\温湿度检测器\THProject\ModbusRTULib\bin\Debug\ModbusRTULib.pdb
+E:\Toward\温湿度检测器\THProject\ModbusRTULib\obj\Debug\ModbusRTULib.csproj.AssemblyReference.cache
+E:\Toward\温湿度检测器\THProject\ModbusRTULib\obj\Debug\ModbusRTULib.csproj.CoreCompileInputs.cache
+E:\Toward\温湿度检测器\THProject\ModbusRTULib\obj\Debug\ModbusRTULib.dll
+E:\Toward\温湿度检测器\THProject\ModbusRTULib\obj\Debug\ModbusRTULib.pdb

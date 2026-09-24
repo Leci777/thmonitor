@@ -1,0 +1,14 @@
+E:\Toward\THProject\ModbusBase\bin\Debug\ModbusBase.exe.config
+E:\Toward\THProject\ModbusBase\bin\Debug\ModbusBase.exe
+E:\Toward\THProject\ModbusBase\bin\Debug\ModbusBase.pdb
+E:\Toward\THProject\ModbusBase\obj\Debug\ModbusBase.csproj.AssemblyReference.cache
+E:\Toward\THProject\ModbusBase\obj\Debug\ModbusBase.csproj.CoreCompileInputs.cache
+E:\Toward\THProject\ModbusBase\obj\Debug\ModbusBase.exe
+E:\Toward\THProject\ModbusBase\obj\Debug\ModbusBase.pdb
+E:\Toward\温湿度检测器\THProject\ModbusBase\bin\Debug\ModbusBase.exe.config
+E:\Toward\温湿度检测器\THProject\ModbusBase\bin\Debug\ModbusBase.exe
+E:\Toward\温湿度检测器\THProject\ModbusBase\bin\Debug\ModbusBase.pdb
+E:\Toward\温湿度检测器\THProject\ModbusBase\obj\Debug\ModbusBase.csproj.AssemblyReference.cache
+E:\Toward\温湿度检测器\THProject\ModbusBase\obj\Debug\ModbusBase.csproj.CoreCompileInputs.cache
+E:\Toward\温湿度检测器\THProject\ModbusBase\obj\Debug\ModbusBase.exe
+E:\Toward\温湿度检测器\THProject\ModbusBase\obj\Debug\ModbusBase.pdb
